@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Pickup Generator</string>
+    <string name="line1">Are you a camera? Because every time I look at you, I smile.</string>
+    <string name="line2">Do you have a Band-Aid? Because I just scraped my knee falling for you.</string>
+    <string name="line3">If you were a vegetable youd be a cute-cumber.</string>
+    <string name="line4">Do you have a sunburn, or are you always this hot?</string>
+    <string name="line5">Are you Australian? Because you meet all of my koala-fications.</string>
+    <string name="line6">Are you a banana? Because I find you a-peeling</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Whats cookin good lookin? Add in your new pickup line here!</string>
+
+</resources>
