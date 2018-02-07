@@ -17,8 +17,13 @@ import java.util.Random;
 
 public class MainActivity extends AppCompatActivity {
 
-    public static String[] DEFAULTS = {"hello", "hi", "bye"};
-
+    public static String[] DEFAULTS = {
+        "Do you have a Band-Aid? Because I just scraped my knee falling for you.",
+            "If you were a vegetable youd be a cute-cumber.",
+            "Do you have a sunburn, or are you always this hot?",
+            "Are you Australian? Because you meet all of my koala-fications.",
+            "Are you a banana? Because I find you a-peeling!"
+    };
     FragmentManager fm  = getSupportFragmentManager();
 
     @Override
